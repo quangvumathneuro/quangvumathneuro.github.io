@@ -1,8 +1,6 @@
 ---
 title: "When Additive and Multiplicative Inverses are the Same"
 excerpt:
-url: 'https://github.com/quangvumathneuro/Computational-Mathematics/blob/main/When_addtitive_inverse_and_multiplicative_inverse_are_the_same.ipynb'
-citation: 'Briggs, K. S., & Spivey, C. R. (2023). When Additive and Multiplicative Inverses are the Same. Mathematics Magazine, 96(3), 299–307.'
 collection: portfolio
 ---
 
@@ -14,3 +12,6 @@ An intriguing incident occurred at a university in Connecticut. A student, while
 
 This unexpected coincidence served as the motivation our thier final project paper, where we further explore this phenomenon.
 
+Briggs, K. S., & Spivey, C. R. (2023). When Additive and Multiplicative Inverses are the Same. Mathematics Magazine, 96(3), 299–307.
+
+[code](When_addtitive_inverse_and_multiplicative_inverse_are_the_same.ipynb)
