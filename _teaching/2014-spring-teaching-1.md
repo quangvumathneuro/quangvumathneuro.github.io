@@ -4,6 +4,6 @@ collection: teaching
 type: "Claculus I & II"
 permalink:
 venue: "St. Olaf College, Academic Success Center"
-date: 2014-01-01
+date: "Fall 2022, Spring 2023, Spring 2024"
 location: "Northfield, Minnesota, United States"
 ---
