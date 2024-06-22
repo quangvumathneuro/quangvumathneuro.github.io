@@ -1,7 +1,16 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "When Additive and Multiplicative Inverses are the Same"
+excerpt:
+url:'https://github.com/quangvumathneuro/Computational-Mathematics/blob/main/When_addtitive_inverse_and_multiplicative_inverse_are_the_same.ipynb'
+citation: 'Briggs, K. S., & Spivey, C. R. (2023). When Additive and Multiplicative Inverses are the Same. Mathematics Magazine, 96(3), 299–307.'
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+In our abstract algebra and number theory classes, we delve into the process of modulo arithmetic, specifically focusing on multiplicative inverses and additive inverses.
+
+Inspiration for the paper on this idea:
+
+An intriguing incident occurred at a university in Connecticut. A student, while calculating the multiplicative and additive inverses for a ring, discovered that the multiplicative inverse of 43 modulo 50 is 7. Interestingly, the professor had initially thought that the answer should be the additive inverse. However, it turned out that both the additive and multiplicative inverses of 43 modulo 50 were indeed 7.[1]
+
+This unexpected coincidence served as the motivation our thier final project paper, where we further explore this phenomenon.
+
