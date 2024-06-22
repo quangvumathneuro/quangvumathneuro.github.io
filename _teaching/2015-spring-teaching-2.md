@@ -1,5 +1,5 @@
 ---
-title: "•	Probably Theory Teaching Assitant"
+title: "Probably Theory Teaching Assitant"
 collection: teaching
 type:
 permalink:
