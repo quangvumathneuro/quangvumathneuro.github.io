@@ -7,10 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-A data-driven personal website
-======
-
-Getting started
 ======
 
 I was born and raised in Hanoi, Vietnam. After finshed high school, I moved to Northfiled, Minnesota to attned St. Olaf College. 
