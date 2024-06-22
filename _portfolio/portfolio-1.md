@@ -14,4 +14,4 @@ This unexpected coincidence served as the motivation our thier final project pap
 
 Briggs, K. S., & Spivey, C. R. (2023). When Additive and Multiplicative Inverses are the Same. Mathematics Magazine, 96(3), 299–307.
 
-[code]([When_addtitive_inverse_and_multiplicative_inverse_are_the_same.ipynb](https://github.com/quangvumathneuro/Computational-Mathematics/blob/main/When_addtitive_inverse_and_multiplicative_inverse_are_the_same.ipynb))
+[code](https://github.com/quangvumathneuro/ComputationalMathematics/blob/main/When_addtitive_inverse_and_multiplicative_inverse_are_the_same.ipynb)
