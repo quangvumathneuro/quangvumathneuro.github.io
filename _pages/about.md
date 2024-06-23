@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 ======
+
 ![Neurophysexpreimentpics](/images/neurophyswebsite.gif){: .align-right width="400px"}
 
 I was born and raised in Hanoi, Vietnam. After finshed high school, I moved to Northfiled, Minnesota to attned St. Olaf College. 
