@@ -19,4 +19,3 @@ I'm currently in the process of applying to gradute school for applied mathemati
 At St Olaf, I am the coligiate football team manager. In my free time, I enjoy cooking, playing badminton, listening to podcasts.
 Being an St. Olaf student has given me oppotunities to travel, experince, and make meanginful relationship around the world.
 
-![Neurophysexpreimentpics](/images/neurophyswebsite.gif){: .align-right width="400px"}
