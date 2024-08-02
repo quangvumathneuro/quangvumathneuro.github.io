@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hello There, My name is Quang Vu, but most people call me Q"
+title: "Hello There, My name is Quang Vu"
 author_profile: true
 redirect_from: 
   - /about/
@@ -11,11 +11,9 @@ redirect_from:
 
 
 
-I was born and raised in Hanoi, Vietnam. After finshed high school, I moved to Northfiled, Minnesota to attned St. Olaf College. 
-The combination of mathematics and neuroscience never occured to me until I was exposed to classes beyond the general curriculum.
+I was born and raised in Hanoi, Vietnam. After finishing high school, I moved to Northfield, Minnesota to attend St. Olaf College. It was here that I discovered the fascinating intersection of mathematics and neuroscience through classes beyond the general curriculum.
 
-I'm currently in the process of applying to gradute school for applied mathematics and computational neurosciecne with focus on computational topology and Behavioral modeling. 
+I am currently applying to graduate school for applied mathematics and computational neuroscience, with a focus on computational topology, behavioral modeling, and neuroethology.
 
-At St Olaf, I am the coligiate football team manager. In my free time, I enjoy cooking, playing badminton, listening to podcasts.
-Being an St. Olaf student has given me oppotunities to travel, experince, and make meanginful relationship around the world.
+At St. Olaf, I serve as the collegiate football team manager. In my free time, I enjoy cooking, playing badminton, and listening to podcasts. Being a St. Olaf student has given me opportunities to travel, experience new cultures, and build meaningful relationships around the world.
 
