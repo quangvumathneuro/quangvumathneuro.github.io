@@ -76,8 +76,8 @@ for row, item in publications.iterrows():
     
     md += """\npermalink: /publication/""" + html_filename
     
-    if len(str(item.excerpt)) > 5:
-        md += "\nexcerpt: '" + html_escape(item.excerpt) + "'"
+    #if len(str(item.excerpt)) > 5:
+        #md += "\nexcerpt: '" + html_escape(item.excerpt) + "'"
     
     md += "\ndate: " + str(item.pub_date) 
     
@@ -88,7 +88,7 @@ for row, item in publications.iterrows():
     
     md += "\ncitation: '" + html_escape(item.citation) + "'"
     
-    #md += "\n---"
+    md += "\n---"
     
     ## Markdown description for individual page
     
