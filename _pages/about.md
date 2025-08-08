@@ -11,9 +11,8 @@ redirect_from:
 
 
 
-I was born and raised in Hanoi, Vietnam. After finishing high school, I moved to Northfield, Minnesota to attend St. Olaf College. It was here that I discovered the fascinating intersection of mathematics and neuroscience through classes beyond the general curriculum.
+I was born and raised in Hanoi, Vietnam. After finishing high school, I moved to Northfield, Minnesota to attend St. Olaf College. It was here that I discovered the fascinating intersection of mathematics and neuroscience through classes beyond the general curriculum. During my my time at St. Olaf College, I serve as the collegiate football team manager and many teaching assistant positions.
 
-I am a graduate student at University of Nevada, Reno under Floris Van Breugel Lab studying the olafactory navigation in _Drosophilla_
+In May 2025, I graduted from St. Olaf and now I am a graduate student at University of Nevada, Reno under Floris Van Breugel Lab studying the olafactory navigation in _Drosophilla_.
 
-At St. Olaf, I serve as the collegiate football team manager. In my free time, I enjoy cooking, playing badminton, and listening to podcasts. Being a St. Olaf student has given me opportunities to travel, experience new cultures, and build meaningful relationships around the world.
 
