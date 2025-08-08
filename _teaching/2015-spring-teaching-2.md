@@ -1,6 +1,7 @@
 ---
-title: "Probably Theory Teaching Assitant"
+title: "Teaching Assitant"
 collection: teaching
-venue: "St. Olaf College, Mathematics, Computer Sciecne, and Statistic Department"
-location: "US"
+type: "Probability Theory, Cellular biology, Cellular and Molecular Neuroscience"
+venue: "St. Olaf College, Mathematics, Computer Sciecne, & Statistic Department, Biology Deparment, Neuroscience Department"
+location: "Northfield, Minnesota, United States"
 ---
